@@ -8,6 +8,6 @@ public class WelcomeController {
 
     @GetMapping("/welcome")
     public String sayWelcome(){
-        return "Welcome to Spring Maven App using GitHub Actions";
+        return "Welcome to Spring Maven App using GitHub Actions1";
     }
 }
